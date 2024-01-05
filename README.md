@@ -30,7 +30,7 @@ A structured MySQL database designed for a blog system that stores users, articl
 
 ### Clone the repository
 ```bash
-git clone <your-repo-url>
+git https://github.com/muskan-musa-khan/mysql-blog-system.git
 ```
 
 ### Open in MySQL Workbench
